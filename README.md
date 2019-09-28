@@ -20,13 +20,12 @@ Then you change to the directory where the exe is, and run
 
 ## report
 
-PSP
----
-design: 10 min
-check the C++ string class's functions: 30 min 
-build the code: 30 min 
-test and debug: 30 min
----
+<table>
+<tr>design</tr><tr>10 min</tr>
+<tr>check the C++ string class's functions</tr><tr>30 min</tr> 
+<tr>build the code</tr><tr>30 min</tr>
+<tr>test and debug</tr><tr>30 min</tr>
+</table>
 
 
 
