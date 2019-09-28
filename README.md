@@ -21,12 +21,12 @@ Then you change to the directory where the exe is, and run
 ## report
 
 PSP
-| action | time |
-| ---- | ---- |
-| design | 10 min |
-| check the C++ string class's functions | 30 min |
-| build the code | 30 min |
-| test and debug | 30 min |
+---
+design: 10 min
+check the C++ string class's functions: 30 min 
+build the code: 30 min 
+test and debug: 30 min
+---
 
 
 
