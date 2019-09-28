@@ -21,10 +21,10 @@ Then you change to the directory where the exe is, and run
 ## report
 
 <table>
-<tr>design</tr><tr>10 min</tr>
-<tr>check the C++ string class's functions</tr><tr>30 min</tr> 
-<tr>build the code</tr><tr>30 min</tr>
-<tr>test and debug</tr><tr>30 min</tr>
+<tr><td>design</td><td>10 min</td></tr>
+<tr><td>check the C++ string class's functions</td><td>30 min</td></tr> 
+<tr><td>build the code</td><td>30 min</td></tr>
+<tr><td>test and debug</td><td>30 min</td></tr>
 </table>
 
 
