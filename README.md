@@ -7,7 +7,7 @@ Then you change to the directory where the exe is, and run
 
 > -c count the characters
 
-> -w count the words
+-w count the words
 
 > -l count the lines
 
